@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E FHD">
+    <display-name lang="pt">A&amp;E FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Agro+ FHD">
+    <display-name lang="pt">Agro+ FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet FHD">
+    <display-name lang="pt">Animal Planet FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 FHD">
+    <display-name lang="pt">Arte 1 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="pt">AXN FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Baby TV FHD">
+    <display-name lang="pt">Baby TV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND Brasilia FHD">
+    <display-name lang="pt">BAND Brasilia FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND ES FHD">
+    <display-name lang="pt">BAND ES FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND FHD [Alt]">
+    <display-name lang="pt">BAND FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND News FHD">
+    <display-name lang="pt">BAND News FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SP FHD">
+    <display-name lang="pt">BAND SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND Sports FHD">
+    <display-name lang="pt">BAND Sports FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS FHD">
+    <display-name lang="pt">BIS FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil FHD">
+    <display-name lang="pt">Canal Brasil FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi FHD">
+    <display-name lang="pt">Canal do Boi FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi FHD [Alt]">
+    <display-name lang="pt">Canal do Boi FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony FHD">
+    <display-name lang="pt">Canal Sony FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canção Nova FHD [Alt]">
+    <display-name lang="pt">Canção Nova FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network FHD">
+    <display-name lang="pt">Cartoon Network FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoonito FHD">
+    <display-name lang="pt">Cartoonito FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax FHD">
+    <display-name lang="pt">Cinemax FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Brasil FHD">
+    <display-name lang="pt">CNN Brasil FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate FHD">
+    <display-name lang="pt">Combate FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central FHD">
+    <display-name lang="pt">Comedy Central FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel FHD">
+    <display-name lang="pt">Discovery Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health FHD">
+    <display-name lang="pt">Discovery Home &amp; Health FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery ID FHD">
+    <display-name lang="pt">Discovery ID FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids FHD">
+    <display-name lang="pt">Discovery Kids FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science FHD">
+    <display-name lang="pt">Discovery Science FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo FHD">
+    <display-name lang="pt">Discovery Turbo FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel FHD">
+    <display-name lang="pt">Disney Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior FHD">
+    <display-name lang="pt">Disney Junior FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD FHD [Alt]">
+    <display-name lang="pt">Disney XD FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! FHD">
+    <display-name lang="pt">E! FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 1 FHD">
+    <display-name lang="pt">ESPN 1 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 2 FHD">
+    <display-name lang="pt">ESPN 2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 4 FHD">
+    <display-name lang="pt">ESPN 4 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Eurochannel FHD [Alt]">
+    <display-name lang="pt">Eurochannel FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Film &amp; Arts FHD [Alt]">
+    <display-name lang="pt">Film &amp; Arts FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX Sports 2 FHD">
+    <display-name lang="pt">FOX Sports 2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura FHD">
+    <display-name lang="pt">Futura FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="pt">FX FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Inter TV Alto Litoral FHD">
+    <display-name lang="pt">Globo Inter TV Alto Litoral FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Inter TV Alto Litoral FHD [Alt]">
+    <display-name lang="pt">Globo Inter TV Alto Litoral FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Inter TV Alto Litoral HD">
+    <display-name lang="pt">Globo Inter TV Alto Litoral HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Inter TV Serra Mar FHD">
+    <display-name lang="pt">Globo Inter TV Serra Mar FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Inter TV Serra Mar HD">
+    <display-name lang="pt">Globo Inter TV Serra Mar HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News FHD">
+    <display-name lang="pt">Globo News FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News FHD [Alt]">
+    <display-name lang="pt">Globo News FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo RJ FHD">
+    <display-name lang="pt">Globo RJ FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo RJ FHD [Alt]">
+    <display-name lang="pt">Globo RJ FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob FHD">
+    <display-name lang="pt">Gloob FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT FHD">
+    <display-name lang="pt">GNT FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family FHD">
+    <display-name lang="pt">HBO Family FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Mundi FHD">
+    <display-name lang="pt">HBO Mundi FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Pop FHD">
+    <display-name lang="pt">HBO Pop FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature FHD">
+    <display-name lang="pt">HBO Signature FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Xtreme FHD">
+    <display-name lang="pt">HBO Xtreme FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO+ FHD">
+    <display-name lang="pt">HBO+ FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO1 FHD">
+    <display-name lang="pt">HBO1 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO2 FHD">
+    <display-name lang="pt">HBO2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HGTV FHD">
+    <display-name lang="pt">HGTV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History FHD">
+    <display-name lang="pt">History FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History2 FHD">
+    <display-name lang="pt">History2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Jovem Pan News FHD">
+    <display-name lang="pt">Jovem Pan News FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Lifetime FHD">
+    <display-name lang="pt">Lifetime FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Loading FHD [Alt]">
+    <display-name lang="pt">Loading FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="MegaPix FHD">
+    <display-name lang="pt">MegaPix FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Modo Viagem FHD">
+    <display-name lang="pt">Modo Viagem FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="MTV FHD">
+    <display-name lang="pt">MTV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV Live FHD">
+    <display-name lang="pt">MTV Live FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Multishow FHD">
+    <display-name lang="pt">Multishow FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Music Box Brasil FHD [Alt]">
+    <display-name lang="pt">Music Box Brasil FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="NatGeo Kids FHD">
+    <display-name lang="pt">NatGeo Kids FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="NatGeo Wild FHD">
+    <display-name lang="pt">NatGeo Wild FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic FHD">
+    <display-name lang="pt">National Geographic FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr FHD">
+    <display-name lang="pt">Nick Jr FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon FHD">
+    <display-name lang="pt">Nickelodeon FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF FHD">
+    <display-name lang="pt">OFF FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel FHD [Alt]">
+    <display-name lang="pt">Paramount Channel FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Paramount FHD">
+    <display-name lang="pt">Paramount FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Polishop FHD [Alt]">
+    <display-name lang="pt">Polishop FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 1 Clubes FHD">
+    <display-name lang="pt">Premiere 1 Clubes FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 2 FHD">
+    <display-name lang="pt">Premiere 2 FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 3 FHD">
+    <display-name lang="pt">Premiere 3 FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 4 FHD">
+    <display-name lang="pt">Premiere 4 FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 5 FHD">
+    <display-name lang="pt">Premiere 5 FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 6 FHD">
+    <display-name lang="pt">Premiere 6 FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 7 FHD">
+    <display-name lang="pt">Premiere 7 FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Premiere 8 FHD">
+    <display-name lang="pt">Premiere 8 FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Prime Box Brasil FHD [Alt]">
+    <display-name lang="pt">Prime Box Brasil FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Record FHD [Alt]">
+    <display-name lang="pt">Record FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record SP FHD">
+    <display-name lang="pt">Record SP FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Record RJ HD">
+    <display-name lang="pt">Record RJ HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Record RJ HD [Alt]">
+    <display-name lang="pt">Record RJ HD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Rede Século 21 FHD [Alt]">
+    <display-name lang="pt">Rede Século 21 FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Rede TV FHD">
+    <display-name lang="pt">Rede TV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida FHD">
+    <display-name lang="pt">Rede Vida FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RIT FHD [Alt]">
+    <display-name lang="pt">RIT FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT RJ FHD">
+    <display-name lang="pt">SBT RJ FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SBT SP FHD">
+    <display-name lang="pt">SBT SP FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Shoptime FHD [Alt]">
+    <display-name lang="pt">Shoptime FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Smithsonian FHD">
+    <display-name lang="pt">Smithsonian FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space FHD">
+    <display-name lang="pt">Space FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 1 FHD [Alt]">
+    <display-name lang="pt">SporTV 1 FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 FHD [Alt]">
+    <display-name lang="pt">SporTV 2 FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 FHD [Alt]">
+    <display-name lang="pt">SporTV 3 FHD [Alt]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Star Channel FHD">
+    <display-name lang="pt">Star Channel FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Star Life FHD">
+    <display-name lang="pt">Star Life FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Studio Universal FHD">
+    <display-name lang="pt">Studio Universal FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SyFy FHD">
+    <display-name lang="pt">SyFy FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS FHD">
+    <display-name lang="pt">TBS FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM HD [Alt]">
+    <display-name lang="pt">TCM HD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Telecine Action FHD">
+    <display-name lang="pt">Telecine Action FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult FHD">
+    <display-name lang="pt">Telecine Cult FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun FHD">
+    <display-name lang="pt">Telecine Fun FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD">
+    <display-name lang="pt">Telecine Pipoca FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium FHD">
+    <display-name lang="pt">Telecine Premium FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch FHD">
+    <display-name lang="pt">Telecine Touch FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC FHD">
+    <display-name lang="pt">TLC FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT FHD">
+    <display-name lang="pt">TNT FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Séries FHD">
+    <display-name lang="pt">TNT Séries FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Tooncast HD">
+    <display-name lang="pt">Tooncast HD </display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Trace Brazuca FHD [Alt]">
+    <display-name lang="pt">Trace Brazuca FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Travel Box Brasil FHD">
+    <display-name lang="pt">Travel Box Brasil FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Aparecida FHD">
+    <display-name lang="pt">TV Aparecida FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Brasil FHD">
+    <display-name lang="pt">TV Brasil FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Camara FHD [Alt]">
+    <display-name lang="pt">TV Camara FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Cultura FHD">
+    <display-name lang="pt">TV Cultura FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Novo Tempo FHD">
+    <display-name lang="pt">TV Novo Tempo FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Ra Tim Bum FHD">
+    <display-name lang="pt">TV Ra Tim Bum FHD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Senado SD">
+    <display-name lang="pt">TV Senado SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Universal Channel TV FHD">
+    <display-name lang="pt">Universal Channel TV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva FHD">
+    <display-name lang="pt">Viva FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel FHD">
+    <display-name lang="pt">Warner Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Woohoo FHD [Alt]">
+    <display-name lang="pt">Woohoo FHD [Alt]</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+</tv>
